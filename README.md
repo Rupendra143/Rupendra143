@@ -1,6 +1,6 @@
 ### Hi there 👋, Rupendra Chaurasiya
 #### Asp.Net with MVC Developer & Web Developer
-![Asp.Net with MVC Developer & Web Developer ]([https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966](https://dotnet.microsoft.com/en-us/apps/aspnet/mvc))
+![Asp.Net with MVC Developer & Web Developer ](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 I'm Rupendra Chaurasiya A Computer Science with a keen interest in Asp.Net Developer & Web Developer I'm always looking for opportunities to learn new skills and develop. I display skills in .Net Developer & Asp.Net With MVC Developer.
 ![Profile views](https://gpvc.arturio.dev/Rupendra143)  
